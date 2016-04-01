@@ -33,7 +33,7 @@ print(s.summary())
 There's some preprocessing involved and a sentence fusion step, but I
 made it easily tunable.
 
-#WINDOWS requirements (Modified on 1/4/15)
+#WINDOWS requirements (Modified on 1/4/16)
 Tested on Windows 7 64 bit Python 2.7.9
 
 1.Install GLPK for windows
